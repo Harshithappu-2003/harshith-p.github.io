@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/_pages/image_to_text_vis.png){: .align-right width="300px"}
 
  👨🏻‍💻I am a pre-final year student at REVA University, Bengaluru.
 
@@ -19,8 +19,6 @@ redirect_from:
 🤝 I’m passionate about helping fellow students navigate the world of tech and open source. As the Lead of OS-Code at REVA University, I’ve been mentoring peers, organizing technical events, and fostering a collaborative coding culture on campus.
 
 🚀 Beyond academics, I enjoy empowering others through community engagement and leadership, while continuing to grow as a learner in the world of emerging technologies.
-
-
 
 **Markdown generator**
 
