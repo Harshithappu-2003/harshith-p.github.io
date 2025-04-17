@@ -11,13 +11,15 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-- title: "Certifications"
-  sublinks:
-    - title: "TBS Certification"
-      url: /files/Harshith P-TBS.pdf
-    - title: "Sigma Batch Certification"
-      url: /files/certificate-sigma-batch-development-66b4d31180c9fe2a87035972.pdf
+    - title: "CV"
+      url: /files/Harshith_Resume.pdf
 
+    - title: "Certifications"
+      sublinks:
+        - title: "TBS Certification"
+          url: /files/Harshith P-TBS.pdf
+        - title: "Sigma Batch Certification"
+          url: /files/certificate-sigma-batch-development-66b4d31180c9fe2a87035972.pdf
 
 
   # - title: "Teaching"
