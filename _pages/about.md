@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png) {: .align-right width="300px"} 👨🏻‍💻I am a pre-final year student at REVA University, Bengaluru.
+![Illustration of combining vision and language modalities](D:\Academic Website\images\image_to_text_vis.png) {: .align-right width="300px"} 👨🏻‍💻I am a pre-final year student at REVA University, Bengaluru.
 
 🔬 My interests lie in exploring the intersection of machine learning and real-world applications, especially in domains like web development, AR/VR, and blockchain.
 
