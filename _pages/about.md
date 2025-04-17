@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/image_to_text_vis.png" alt="Illustration of combining vision and language modalities" width="300px" style="float: right; margin-left: 20px;" />
+<img src="D:\Academic Website\images\image_to_text_vis.png" alt="Illustration of combining vision and language modalities" width="300px" style="float: right; margin-left: 20px;" />
  👨🏻‍💻I am a pre-final year student at REVA University, Bengaluru.
 
 🔬 My interests lie in exploring the intersection of machine learning and real-world applications, especially in domains like web development, AR/VR, and blockchain.
