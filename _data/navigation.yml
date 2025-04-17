@@ -11,17 +11,17 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+# _data/navigation.yml
 main:
   - title: "CV"
     url: /files/Harshith_Resume.pdf
 
-main:
   - title: "Certifications"
     url: /certifications/
 
-
   - title: "Portfolio"
     url: /portfolio/
+
 
 
 
