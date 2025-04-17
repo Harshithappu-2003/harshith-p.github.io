@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 
  👨🏻‍💻I am a pre-final year student at REVA University, Bengaluru.
 
@@ -20,18 +20,12 @@ redirect_from:
 
 🚀 Beyond academics, I enjoy empowering others through community engagement and leadership, while continuing to grow as a learner in the world of emerging technologies.
 
-**Markdown generator**
+# Selected Experience
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## 🤖 Open Source Contributions
+As Chapter Lead of OSCode Community – REVA University, I led 10+ open-source workshops and events that introduced 200+ students to collaborative coding, Git, and GitHub. I mentored 30+ members, fostering a hands-on learning environment that encouraged first-time contributions and open-source engagement.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I also coordinated external collaborations, including a joint event with Masai School, and represented REVA University at the Bengaluru Tech Summit 2024, where I networked with 100+ tech professionals.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## 🎓 Leadership & Community Engagement
+My leadership with OSCode and IEEE ComSoc involved driving strategic goals, event planning, and peer mentorship. These experiences strengthened my communication, collaboration, and initiative—core skills that I bring to both technical and team-based work.
